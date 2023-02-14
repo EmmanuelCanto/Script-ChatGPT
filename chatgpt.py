@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = '' #insertar key
 
 while True:
     prompt = input('\nIntroduce una pregunta > ')
