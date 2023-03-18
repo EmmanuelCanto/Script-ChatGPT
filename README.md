@@ -8,4 +8,3 @@ Este script es una herramienta muy útil para realizar consultas en línea y obt
 
 Para usar este script, es necesario tener una cuenta de OpenAI y generar una clave de API para autenticar tus solicitudes. Asegúrate de seguir las instrucciones de configuración incluidas en el script para que puedas utilizarlo correctamente.
 
-¡Espero que esto te sea de ayuda y te deseo mucha suerte con tu repositorio!
