@@ -6,5 +6,4 @@ El script es fácil de usar, simplemente tienes que ejecutarlo desde la consola 
 
 Este script es una herramienta muy útil para realizar consultas en línea y obtener respuestas precisas y detalladas en tiempo real. Además, puedes personalizar la conversación con el modelo de lenguaje según tus preferencias y necesidades.
 
-Para usar este script, es necesario tener una cuenta de OpenAI y generar una clave de API para autenticar tus solicitudes. Asegúrate de seguir las instrucciones de configuración incluidas en el script para que puedas utilizarlo correctamente.
-
+Para usar este script, es necesario tener una cuenta de OpenAI y generar una clave de API para autenticar tus solicitudes.
